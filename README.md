@@ -4,7 +4,7 @@ Downloads all images from Dogeparty and saves them to an archive.
 
 View archive: https://jpjanssen.com/xdp-archive/
 
-Youtube explainer:  https://
+Youtube explainer:  https://youtu.be/gqF6zhgrpUU
 
 ## Problems It Solves
 
