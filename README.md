@@ -2,7 +2,8 @@
 
 Downloads all images from Dogeparty and saves them to an archive.
 
-View archive: https://
+View archive: https://jpjanssen.com/xdp-archive/
+
 Youtube explainer:  https://
 
 ## Problems It Solves
@@ -59,7 +60,7 @@ The current image is saved. This script can not determine if a URL initially pro
 
 ### Proof in Json ≠ Immutable
 
-In some cases the URL contains the file checksum. However, if this URL is extracted from a json file, this is itself not an immutable proof. Use the Timeline Tool to inspect to inspect an asset for onchain data.
+In some cases the URL contains the file checksum. However, if this URL is extracted from a json file, this is itself not an immutable proof. Use the Timeline Tool to inspect an asset for onchain data.
 
 * https://github.com/Jpja/XCP-Asset-Timeline 
 
